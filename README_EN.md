@@ -13,7 +13,7 @@ Java Backend Developer
 
 🎓 Student of Information Technology and Information Security  
 
-💻 I specialize **only in backend development with Java**
+💻 I specialize **in backend development with Java**
 
 Interested in:
 

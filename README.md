@@ -1,9 +1,12 @@
-<h1 align="center">Привет 👋 Я Юрий</h1>
+<h1 align="center">Привет 👋 я Юрий</h1>
 
 <p align="center">
 Backend разработчик на Java
 </p>
 
+<p align="center">
+🌍 <a href="./README_EN.md">English</a> | <a href="./README.md">Русский</a>
+</p>
 ---
 
 ## 👨‍💻 Обо мне

@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋 I'm Yuriy</h1>
 
 <p align="center">
-Java Backend Developer
+Backend Java Developer
 </p>
 
-<p align="center">
-🌍 <a href="./README_EN.md">English</a> | <a href="./README.md">Русский</a>
-</p>
 ---
 
 ## 👨‍💻 About Me
 
 🎓 Student of Information Technology and Information Security  
 
-💻 I specialize **in backend development with Java**
+💻 I specialize **only in backend development with Java**
 
 Interested in:
 

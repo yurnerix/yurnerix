@@ -26,6 +26,7 @@ Interested in:
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Databases
 
@@ -39,6 +40,7 @@ Interested in:
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -54,3 +56,19 @@ Interested in:
 ## 📊 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=yurnerix&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+<p>
+
+<a href="https://t.me/happyfunnybunny">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:schexin.hoho@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>

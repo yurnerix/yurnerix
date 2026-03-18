@@ -4,6 +4,7 @@
 Backend разработчик на Java
 </p>
 
+
 ---
 
 ## 👨‍💻 Обо мне
@@ -26,6 +27,7 @@ Backend разработчик на Java
 ### Языки
 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Базы данных
 
@@ -41,6 +43,7 @@ Backend разработчик на Java
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 

@@ -56,3 +56,19 @@ Backend разработчик на Java
 ## 📊 GitHub статистика
 
 ![stats](https://github-readme-stats.vercel.app/api?username=yurnerix&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Контакты
+
+<p>
+
+<a href="https://t.me/happyfunnybunny">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:schexin.hoho@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>

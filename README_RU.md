@@ -28,6 +28,7 @@ Backend разработчик на Java
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
 ### Базы данных
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
@@ -52,6 +53,7 @@ Backend разработчик на Java
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=intellijidea)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 

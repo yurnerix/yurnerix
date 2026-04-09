@@ -54,11 +54,6 @@ Interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=yurnerix&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Contact
 

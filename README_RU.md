@@ -107,16 +107,16 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurnerix&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurnerixE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=yurnerix&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yurnerix&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yurnerix&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yurnerix&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurnerix&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurnerix&bg_color=2b2d42&border_color=3a3d5a&color=f8f8f2&title_color=ff6b9a&line=f4a261&point=ff6b9a&area=true&area_color=f4a261&hide_border=false&custom_title=Yuriy's%20Contribution%20Graph" />
 </p>
 
 ---

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="header" width="900" />
+  <img src="./images/header.gif" alt="header" width="900" />
 </p>
 
 <h1 align="center">Привет 👋, я Юрий</h1>

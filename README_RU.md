@@ -65,6 +65,13 @@
   <img src="https://img.shields.io/badge/Astra%20Linux-1E88E5?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
+### 🌐 Сети и администрирование
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
 ### 👨‍💻 Языки программирования
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
